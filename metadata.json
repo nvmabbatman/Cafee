@@ -1,0 +1,6 @@
+{
+  "name": "Nagi Cafe",
+  "description": "A beautiful, minimalist website for Nagi Cafe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
